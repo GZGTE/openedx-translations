@@ -69,7 +69,7 @@
   "account.settings.field.state": "État",
   "account.settings.field.state.empty": "Ajouter un état",
   "account.settings.field.state.options.empty": "Choisir un état",
-  "account.settings.field.site.language": "Langue du site",
+  "account.settings.field.site.language": "이건된다고?",
   "account.settings.field.site.language.help.text": "La langue utilisée au travers du site. Le site est actuellement disponible dans un nombre limité de langues.",
   "account.settings.field.education": "Formation",
   "account.settings.field.education.empty": "Ajouter un niveau de formation",
